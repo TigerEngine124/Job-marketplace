@@ -136,10 +136,6 @@ of job bidding and hiring straightforward and efficient.
 Check out the live demo of the project here:
 [Live Link](https://solosphere-9150a.web.app/)
 
-## **License**
-
-This project is licensed under the **Himel Mia**.
-
 ## Screenshots:
 
 ![Screenshot 1](./client/public/Home.png)
